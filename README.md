@@ -6,6 +6,7 @@ Sou um programador focado em transformar processos manuais em automáticos diret
 - 🔭 Atualmente trabalhando em: Projetos de automação residencial e bots.
 - 📱 Ferramentas principais: Python, Termux, Git e GitHub.
 - 🚜 Projeto em destaque: [Site de Roçagem](https://claudio815.github.io/site-rocagem/)
+- 🚜 Projeto em destaque: [Site de curso Streamlit](https://claudio815.github.io/curso-streamlit/)
 - 📍 Localização: Saquarema, RJ.
 
 ---
